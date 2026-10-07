@@ -1,0 +1,31 @@
+# Smart Scale
+
+> Smart Scale (סמארט סקייל) בונה לעסקים ישראליים מערכות שעושות את העבודה החוזרת: מענה ללידים בוואטסאפ תוך 2 דקות, מערכת ניהול לקוחות, תזכורות לפגישות, קליטת מסמכים ודוחות. מייסד: איליה מלצב.
+
+## שירותים
+- [מענה אוטומטי בוואטסאפ](https://smartscale-biz.github.io/ss-website-preview/services/whatsapp-assistant/): עוזר שעונה ללידים בוואטסאפ בשמכם, גם בלילה ובסופ״ש. שואל את השאלות הנכונות, מסנן, וקובע פגישה ביומן.
+- [מערכת ניהול לקוחות](https://smartscale-biz.github.io/ss-website-preview/services/crm/): כל ליד מכל מקור נכנס למקום אחד, עם כל הפרטים והשיחות. רואים מי חדש, מי מחכה, ומה הצעד הבא של כל אחד.
+- [תזכורות ואישורי הגעה](https://smartscale-biz.github.io/ss-website-preview/services/reminders/): תזכורות אוטומטיות לפגישות ולתורים, עם אישור הגעה בלחיצה ואפשרות לדחות. מקום שהתפנה מוצע ללקוח הבא.
+- [קליטת מסמכים אוטומטית](https://smartscale-biz.github.io/ss-website-preview/services/document-intake/): לקוחות שולחים מסמכים בוואטסאפ או במייל, והמערכת מזהה מה הגיע, נותנת שם ברור, שומרת בתיק הנכון ומעדכנת את הצוות.
+- [דוחות אוטומטיים](https://smartscale-biz.github.io/ss-website-preview/services/reports/): דוח מסודר לכם או ללקוחות שלכם, עם המספרים שחשובים, שמגיע בזמן קבוע בלי שאף אחד מעתיק נתונים.
+- [מציאת לקוחות חדשים](https://smartscale-biz.github.io/ss-website-preview/services/lead-generation/): מערכת Reacherful מוצאת עסקים שמתאימים לכם, מאמתת את הפרטים ומכינה פנייה אישית לכל אחד. אתם מחליטים למי לשלוח.
+- [הכשרה אישית בקלוד](https://smartscale-biz.github.io/ss-website-preview/services/claude-training/): שיעורים אחד על אחד, על העבודה האמיתית שלכם. בסוף ההכשרה קלוד מכין לכם מסמכים, סיכומים ותהליכים, ואתם יודעים להפעיל אותו.
+
+## ענפים
+- [משרדי עורכי דין](https://smartscale-biz.github.io/ss-website-preview/industries/law-firms/): קליטת מסמכים, מענה ללידים ומעקב אחרי תיקים, כדי שהצוות יעבוד על התיקים ולא על הקבצים.
+- [קליניקות ומרפאות](https://smartscale-biz.github.io/ss-website-preview/industries/clinics/): תזכורות ואישורי הגעה, מענה מיידי לשאלות חוזרות, ומעקב אחרי מטופלים אחרי הטיפול.
+- [סוכני ביטוח](https://smartscale-biz.github.io/ss-website-preview/industries/insurance-agents/): מענה מהיר ללידים מהמודעות, מעקב אחרי כל פנייה, ותזכורות לחידושי פוליסות לפני שהלקוח הולך למתחרה.
+- [רואי חשבון ויועצי מס](https://smartscale-biz.github.io/ss-website-preview/industries/accountants/): איסוף מסמכים אוטומטי, תזכורות ללקוחות לפני מועדים, ודוחות שמגיעים לבד.
+- [נדל״ן ותיווך](https://smartscale-biz.github.io/ss-website-preview/industries/real-estate/): עוזר שעונה לפניות על נכסים מיד, מסנן לפי תקציב ואזור, וקובע סיורים ביומן.
+
+## סיפורי לקוחות
+- [משרד עורכי דין שהפסיק למיין מסמכים](https://smartscale-biz.github.io/ss-website-preview/stories/tom-ghitza-law-office/): משרד נזקי גוף שמקבל כ-300 מסמכים בחודש מלקוחות. היום הם נקלטים, ממוינים ונשמרים לבד.
+- [קליניקה שרצה על 30 אוטומציות](https://smartscale-biz.github.io/ss-website-preview/stories/arik-geron-clinic/): מתזכורות לתורים ועד מעקב אחרי טיפול: כל הצד הדיגיטלי של הקליניקה רץ לבד, עם עוזר AI במרכז.
+
+## כתבות
+- [סוכן AI לווצאפ - לא מה שחשבתם](https://smartscale-biz.github.io/ss-website-preview/blog/whatsapp-ai-agent-ozer-baal-esek/): סוכן AI לווצאפ לעסק עונה ללקוחות, מסכם לכם לידים בבוקר, מזכיר פגישות ומסייע לכם לנהל את היום. גלו איך לחסוך 10-15 שעות בשבוע על תפעול ידני.
+- [קליטת מסמכים אוטומטית למשרד עורכי דין: מה למדנו ממערכת פעילה במשרד נזקי גוף](https://smartscale-biz.github.io/ss-website-preview/blog/klitat-mismachim-orchei-din/): איך קליטת מסמכים אוטומטית עוזרת למשרד עורכי דין לסדר חומרים, לזהות מסמכים רגישים ולחסוך עבודה ידנית.
+
+## קשר
+- קביעת שיחת היכרות: https://book.ilyamaltsev.com/?e=15min
+- מייל: ilya@smartscale.biz

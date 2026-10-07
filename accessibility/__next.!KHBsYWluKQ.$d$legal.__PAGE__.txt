@@ -1,0 +1,29 @@
+3:"$Sreact.fragment"
+4:"/ss-website-preview/_next/static/chunks/0ggc63sfnl4he.js"
+5:"/ss-website-preview/_next/static/chunks/2w1nr_o5jtxdb.js"
+6:I[39756,["$4","$5"],"default"]
+7:I[37457,["$4","$5"],"default"]
+c:I[97367,["$4","$5"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$4","$5"],"$10"]
+12:"MetadataBoundary"
+13:I[97367,["$4","$5"],"$12"]
+14:I[27201,["$4","$5"],"IconMark"]
+:HL["/ss-website-preview/_next/static/chunks/1hh04oaqpfjps.css","style"]
+:HL["/ss-website-preview/_next/static/chunks/2fksbl_um6f5s.css","style"]
+9:X
+9:C
+a:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","div",null,{"className":"iXhN6a_page","children":["$","div",null,{"className":"container","children":[["$","p",null,{"className":"iXhN6a_draft","children":"טיוטה: הנוסח עוד לא סופי."}],["$","h1",null,{"className":"iXhN6a_title","children":"הצהרת נגישות"}],["$","p",null,{"className":"iXhN6a_updated","children":["עודכן: ","7 באוקטובר 2026"]}],["$","div",null,{"className":"_4TMTyW_prose","children":[["$","h2",null,{"id":"מה-עשינו","children":"מה עשינו"}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":"האתר בנוי מימין לשמאל, עם כותרות מסודרות וניווט במקלדת."}],"\n",["$","li",null,{"children":"כל התמונות כוללות תיאור חלופי."}],"\n",["$","li",null,{"children":"מי שהגדיר במכשיר הפחתת תנועה מקבל את האתר בלי אנימציות."}],"\n",["$","li",null,{"children":"ניגודיות הצבעים נבדקה, וגודל הטקסט המינימלי הוא 14 פיקסלים."}],"\n"]}],"\n",["$","h2",null,{"id":"נתקלתם-בבעיה","children":"נתקלתם בבעיה?"}],"\n",["$","p",null,{"children":["כתבו לנו ל",["$","a",null,{"href":"mailto:-ilya@smartscale.biz","children":"-ilya@smartscale.biz"}]," או התקשרו ל-050-261-1165, ונטפל בזה."]}],"\n",["$","blockquote",null,{"children":["\n",["$","p",null,{"children":"טיוטה. ההצהרה הסופית תעודכן לפי תקנות שוויון זכויות לאנשים עם מוגבלות (התאמות נגישות לשירות) ותקן ישראלי 5568."}],"\n"]}]]}]]}]}],[["$","link","0",{"rel":"stylesheet","href":"/ss-website-preview/_next/static/chunks/1hh04oaqpfjps.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/ss-website-preview/_next/static/chunks/2fksbl_um6f5s.css","precedence":"next"}],["$","script","script-0",{"src":"/ss-website-preview/_next/static/chunks/0veqwvq9dwu0t.js","async":true}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$a"}}]]
+2:[["children",{"s":{"n":"legal","t":"d","k":"accessibility","s":["about","api","blog","catalog","directions","faq","industries","llms.txt","services","stories"]},"h":65600,"d":{"r":["$","$3","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
+1:[["children",{"s":"(plain)","h":131072,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#0B131F"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"הצהרת נגישות | Smart Scale"}],["$","meta","1",{"name":"description","content":"מה עשינו כדי שהאתר יהיה נגיש, ולמי פונים אם משהו לא עובד."}],["$","meta","2",{"name":"application-name","content":"Smart Scale"}],["$","meta","3",{"name":"author","content":"איליה מלצב"}],["$","meta","4",{"name":"robots","content":"noindex, nofollow"}],["$","link","5",{"rel":"canonical","href":"https://smartscale-biz.github.io/ss-website-preview/accessibility/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no"}],["$","meta","7",{"property":"og:title","content":"הצהרת נגישות | Smart Scale"}],["$","meta","8",{"property":"og:description","content":"מה עשינו כדי שהאתר יהיה נגיש, ולמי פונים אם משהו לא עובד."}],["$","meta","9",{"property":"og:url","content":"https://smartscale-biz.github.io/ss-website-preview/accessibility/"}],["$","meta","10",{"property":"og:site_name","content":"Smart Scale"}],["$","meta","11",{"property":"og:locale","content":"he_IL"}],["$","meta","12",{"property":"og:image","content":"https://smartscale-biz.github.io/ss-website-preview/og/default.png"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:image:alt","content":"הצהרת נגישות | Smart Scale"}],["$","meta","16",{"property":"og:type","content":"website"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"הצהרת נגישות | Smart Scale"}],["$","meta","19",{"name":"twitter:description","content":"מה עשינו כדי שהאתר יהיה נגיש, ולמי פונים אם משהו לא עובד."}],["$","meta","20",{"name":"twitter:image","content":"https://smartscale-biz.github.io/ss-website-preview/og/default.png"}],["$","link","21",{"rel":"icon","href":"/ss-website-preview/favicon.ico?favicon.3gxe_-mmitaoz.ico","sizes":"32x32","type":"image/x-icon"}],["$","link","22",{"rel":"icon","href":"/ss-website-preview/icon.png?icon.2zngi6k3vh1od.png","sizes":"180x180","type":"image/png"}],["$","link","23",{"rel":"apple-touch-icon","href":"/ss-website-preview/apple-icon.png?apple-icon.2zngi6k3vh1od.png","sizes":"180x180","type":"image/png"}],["$","$L14","24",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$a"}},"a":"$@16","u":"$@17","b":"SJ6RC1j687wlvupBiKDXV"}
+e:null
+17:true
+a:300
+a:C
+16:0
+8:"$undefined"
+15:"$undefined"
+f:"$undefined"
